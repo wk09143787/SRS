@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/github/wk09143787/srs/dao/provider/ProfessorDynaSqlProvider.java=UTF-8
+encoding//src/main/java/com/github/wk09143787/srs/domain/Course.java=UTF-8
+encoding//src/main/java/com/github/wk09143787/srs/mapper/CourseDao.java=UTF-8
+encoding//src/main/java/com/github/wk09143787/srs/mapper/ProfessorDao.java=UTF-8
+encoding//src/main/java/com/github/wk09143787/srs/mapper/SectionDao.java=UTF-8
+encoding//src/main/java/com/github/wk09143787/srs/mapper/StudentDao.java=UTF-8
+encoding//src/main/java/com/github/wk09143787/srs/mapper/TranscriptDao.java=UTF-8
+encoding//src/main/java/com/github/wk09143787/srs/specification=UTF-8
+encoding/<project>=UTF-8
